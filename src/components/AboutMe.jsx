@@ -6,13 +6,13 @@ const AboutMe = () => {
     <>
       <Navbar />
       <div className="bg-black min-h-screen text-white px-6 flex flex-col items-center pt-10">
-        <h1 className="text-4xl font-bold mb-8 text-blue-500">About Me</h1>
+        <h1 className="text-4xl font-bold mb-10 text-blue-500">About Me</h1>
 
-        <div className="max-w-3xl w-full bg-black rounded-xl p-8 shadow-2xl transition-all duration-300">
+        <div className="max-w-3xl w-full bg-black rounded-xl p-8 shadow-2xl transition-all duration-300 text-xl">
           <p className="mb-6 leading-relaxed tracking-wide">
             Hello, my name is{" "}
-            <span className="font-semibold text-blue-500">Kejdi Nela</span>, I
-            am 34 years old and I hold a degree from the{" "}
+            <span className="font-semibold text-blue-500">Kejdi Nela</span>,
+            I hold a degree from the{" "}
             <span className="font-semibold">University of Sports</span>.
           </p>
 

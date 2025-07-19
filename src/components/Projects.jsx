@@ -28,7 +28,7 @@ const Projects = () => {
       title: "WorkForce Pro",
       image: "workforcepro.png",
       description: "HR and task management tool for teams and businesses. Created with React, Express, and PostgreSQL.",
-      link: "https://yourblog.com",
+      link: "https://work-force-pro.vercel.app",
     },
     {
       title: "Moxxa Coffee",
