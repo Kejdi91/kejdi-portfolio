@@ -28,13 +28,13 @@ const Projects = () => {
       title: "WorkForce Pro",
       image: "workforcepro.png",
       description: "HR and task management tool for teams and businesses. Created with React, Express, and PostgreSQL.",
-      link: "https://work-force-pro.vercel.app",
+      link: "https://workforce-pro-phi.vercel.app/",
     },
     {
       title: "Moxxa Coffee",
       image: "moxxacoffee.png",
       description: "Digital restaurant menu,integration and real-time updates. Created with React, Express, and PostgreSQL.",
-      link: "https://online-menu-alpha.vercel.app/",
+      link: "http://online-menu-alpha.vercel.app/",
     },
     
   ];
