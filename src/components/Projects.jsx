@@ -34,7 +34,7 @@ const Projects = () => {
       title: "Moxxa Coffee",
       image: "moxxacoffee.png",
       description: "Digital restaurant menu,integration and real-time updates. Created with React, Express, and PostgreSQL.",
-      link: "http://online-menu-alpha.vercel.app/",
+      link: "https://online-menu-snowy.vercel.app/",
     },
     
   ];
